@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnSave" type="id" />
+    <item name="btnLoad" type="id" />
+    <item name="outputData" type="id" />
+    <item name="inputData" type="id" />
+</resources>
